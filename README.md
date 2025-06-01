@@ -12,4 +12,4 @@ The project contains different tools for the user to engage in and achive his go
 
 4-A cart page, accessed from the user's account, each user has a unique cart for the logged in account, in the cart section there is alot of activities a user can do, including a delete option, for the user to delete a certain product from the cart page, a way to increase and decrease the quantity of a specific product and a check out section for the user to insert his billing information for payment (payment is calculated based on how many products the user has and how much its priced at).
 
-4-
+5-

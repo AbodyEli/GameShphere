@@ -1,0 +1,15 @@
+C:\GameShpere\Model\bin\Debug\Model.exe.config
+C:\GameShpere\Model\bin\Debug\Model.exe
+C:\GameShpere\Model\bin\Debug\Model.pdb
+C:\GameShpere\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\GameShpere\Model\obj\Debug\MainWindow.g.cs
+C:\GameShpere\Model\obj\Debug\App.g.cs
+C:\GameShpere\Model\obj\Debug\Model_MarkupCompile.cache
+C:\GameShpere\Model\obj\Debug\Model_MarkupCompile.lref
+C:\GameShpere\Model\obj\Debug\MainWindow.baml
+C:\GameShpere\Model\obj\Debug\Model.g.resources
+C:\GameShpere\Model\obj\Debug\Model.Properties.Resources.resources
+C:\GameShpere\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\GameShpere\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\GameShpere\Model\obj\Debug\Model.exe
+C:\GameShpere\Model\obj\Debug\Model.pdb

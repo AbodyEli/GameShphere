@@ -1,0 +1,17 @@
+C:\GameShpere\GameShpere\obj\Debug\GameShpere.csproj.AssemblyReference.cache
+C:\GameShpere\GameShpere\obj\Debug\GameShpere.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\OneDrive\Desktop\GameShpere\GameShpere\obj\Debug\GameShpere.csproj.AssemblyReference.cache
+C:\Users\Yanni\OneDrive\Desktop\GameShpere\GameShpere\obj\Debug\GameShpere.csproj.CoreCompileInputs.cache
+C:\GameShpere\GameShpere\bin\Debug\App_Data\DBGameSpherePJ.accdb
+C:\GameShpere\GameShpere\bin\Debug\GameShpere.dll.config
+C:\GameShpere\GameShpere\bin\Debug\GameShpere.dll
+C:\GameShpere\GameShpere\bin\Debug\GameShpere.pdb
+C:\GameShpere\GameShpere\bin\Debug\Model.exe
+C:\GameShpere\GameShpere\bin\Debug\ViewModel.exe
+C:\GameShpere\GameShpere\bin\Debug\Model.pdb
+C:\GameShpere\GameShpere\bin\Debug\Model.exe.config
+C:\GameShpere\GameShpere\bin\Debug\ViewModel.pdb
+C:\GameShpere\GameShpere\bin\Debug\ViewModel.exe.config
+C:\GameShpere\GameShpere\obj\Debug\GameShpere.dll
+C:\GameShpere\GameShpere\obj\Debug\GameShpere.pdb
+C:\GameShpere\GameShpere\obj\Debug\GameShpere.csproj.Up2Date

@@ -1,4 +1,4 @@
-# WCFGameShphere(unfinished)
+# GameShphere(unfinished)
 A Highschool web development project that combines ASPX for the front end, C# for the back end and Microsoft Access for the database, to create a very user-friendly and engaging website.
 
 *This project was made for evaluation purposes, specifically for my bagrut certificate.

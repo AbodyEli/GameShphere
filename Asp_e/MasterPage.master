@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+       
+        .tdStyle {
+            width : 250px;
+            height: 35px;
+            text-align: center;
+            background-color: #bbbaba;
+            font-family: 'Roboto', sans-serif;
+             border: 2px solid #333;
+              padding: 8px;
+             text-decoration: none;
+             text-align: center;
+             font-size: large;
+             color:black;
+             
+  border-spacing: 0;
+        }
+        
+        
+        .link-button-Black {
+            font-size : larger;
+    color: black;
+    text-decoration: none;
+     transition: color 0.25s ease;
+
+}
+        .link-button-Black:hover{
+            color:#7c7a7a;
+            text-decoration: underline;
+            
+        }
+
+
+
+.ColTble{
+    border-collapse: collapse;
+  border-spacing: 0;
+}
+
+        
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <center>
+        <table class="ColTble">
+    <tr>
+        <td colspan="5">
+            <asp:Image ID="imageheader" runat="server" Height="300px" Width="1900px" ImageUrl="images/HeaderGameSphere.png" />
+        </td>
+    </tr>
+            <tr>
+                <td class="auto-style3">
+                    <asp:Label ID="LblInfoUser" runat="server" Text=" "></asp:Label>
+                </td>
+            </tr>
+              <tr>               
+                <td class="tdStyle "><asp:LinkButton ID="LnkGames" CssClass="link-button-Black" runat="server" PostBackUrl="~/Default.aspx" >Games</asp:LinkButton></td>
+                <td class="tdStyle "><asp:LinkButton ID="LnkRegister" CssClass="link-button-Black" runat="server" PostBackUrl="~/Registration.aspx">Regestration</asp:LinkButton></td>
+                <td class="tdStyle "><asp:LinkButton ID="LnkLogin" CssClass="link-button-Black" runat="server" Text="Login" PostBackUrl="~/Login.aspx"></asp:LinkButton></td>
+                <td class="tdStyle "><asp:LinkButton ID="LnkCart" CssClass="link-button-Black" runat="server"  PostBackUrl="~/MyCart.aspx" Text="My Cart"></asp:LinkButton></td>
+                <td class="tdStyle "><asp:LinkButton ID="LnkAbout" CssClass="link-button-Black" runat="server"  PostBackUrl="~/Deals.aspx" Text="My Cart">Orders</asp:LinkButton></td>
+            </tr>
+
+            
+           
+<tr>
+    <td colspan="5" style="text-align:center">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+      
+        </asp:ContentPlaceHolder>
+        </td>
+            </tr>
+                    <tr>
+    <td colspan="5">
+        <asp:Image ID="Image2" runat="server" Width="1900" Height="250" ImageUrl="images/FooterGameSphere.png" />
+    </td>
+</tr>
+            </table>
+            </center>
+    </div>
+    </form>
+</body>
+</html>
